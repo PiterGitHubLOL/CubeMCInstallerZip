@@ -1,0 +1,1 @@
+msgbox"Extract 'CubeMCPLInstaller' After extracting run Installer.bat"
