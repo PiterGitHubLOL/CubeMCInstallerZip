@@ -1,1 +1,1 @@
-msgbox"Extract 'CubeMCPLInstaller' After extracting run Installer.bat"
+msgbox"Wyodrębnij 'CubeMCInstaller.zip' I otwórz Installer.bat"
