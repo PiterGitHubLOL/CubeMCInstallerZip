@@ -1,1 +1,1 @@
-msgbox"Wyodrębnij 'CubeMCInstaller.zip' I otwórz Installer.bat"
+msgbox"Wyodrebnij 'CubeMCInstaller.zip' I otworz Installer.bat"
